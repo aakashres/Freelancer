@@ -1,6 +1,10 @@
 bin/
 include/
 lib/
+Include/
+Lib/
+Scripts/
+tcl/
 pip-selfcheck.json
 __pycache__
 db.sqlite3
